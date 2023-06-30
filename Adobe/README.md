@@ -1,0 +1,99 @@
+## Most Frequent Asked Question by Adobe!
+[![Adobe DSA Question](https://img.shields.io/badge/Adobe%20DSA%20Question-green.svg)](https://www.adobe.com/products/experience-platform/decision-service-advertising.html)
+
+## Welcome to the Adobe Interview Questions Repository! 🎉
+
+This repository is designed to provide a comprehensive list of Adobe interview questions to help you prepare for your upcoming interviews. We have curated a wide range of questions that cover various topics and difficulty levels.
+
+### How to Use this Repository:
+1. Start by exploring the list of questions provided in the repository.
+2. Each question is organized by category or topic, making it easier for you to navigate through the different areas of focus.
+3. Take your time to go through each question and make sure you understand the problem statement and requirements.
+4. For each question, we have provided a link to the corresponding LeetCode page. Click on the question title to access the problem and its description.
+5. Use the provided links to further explore the LeetCode platform, where you can find additional resources, discussions, and solutions for the questions.
+
+### ⚠️ Caution:
+1. Please remember that simply looking at the solutions without attempting the problem first is not beneficial for your learning and interview preparation. The key is to challenge yourself and solve the problems on your own.
+2. Avoid peeking at the solutions too early. Give yourself enough time to think through the problem, come up with potential solutions, and attempt to implement them before seeking help.
+3. When reviewing solutions, focus on understanding the thought process and different approaches rather than blindly memorizing code snippets.
+4. Embrace the learning process and don't be discouraged by initial difficulties. Practice, persistence, and continuous learning are key to improving your problem-solving skills.
+
+### 📌 Note:
+1. If you find any issues with the questions or have suggestions to improve the repository, feel free to raise an issue or submit a pull request. Your contributions are greatly appreciated!
+2. Remember that interview questions may vary, and it's essential to prepare yourself for a wide range of topics and problem-solving techniques.
+
+Good luck with your preparation! 💪🚀
+
+## Question
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [Next Permutation](https://leetcode.com/problems/next-permutation/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [4Sum](https://leetcode.com/problems/4sum/)
+- [Count and Say](https://leetcode.com/problems/count-and-say/)
+- [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+- [Nim Game](https://leetcode.com/problems/nim-game/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [N-Queens](https://leetcode.com/problems/n-queens/)
+- [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [Permutations](https://leetcode.com/problems/permutations/)
+- [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+- [Coin Change](https://leetcode.com/problems/coin-change/)
+- [Tenth Line](https://leetcode.com/problems/tenth-line/)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+- [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [4Sum II](https://leetcode.com/problems/4sum-ii/)
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+- [Word Break](https://leetcode.com/problems/word-break/)
+- [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+- [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
+- [Single Number II](https://leetcode.com/problems/single-number-ii/)
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+- [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+- [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+- [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+- [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [String Compression II](https://leetcode.com/problems/string-compression-ii/)
+- [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+- [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+- [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
+
+- 
